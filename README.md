@@ -32,5 +32,3 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * Utiliza Hardhat para compilar y desplegar los contratos en la red de Binance.
 * Conéctate al servicio de Graph para configurar un subgrafo que escuche eventos relevantes en la cadena de bloques de Binance y actualice tu aplicación en consecuencia.
 ------------------------------------------------------------------------------------------------------------------------------------------------
-Recuerda que este es solo un esquema básico para comenzar a desarrollar tu aplicación. A medida que avances, es posible que debas realizar ajustes y agregar funcionalidades adicionales según tus necesidades específicas. Además, asegúrate de investigar y seguir las mejores prácticas de seguridad al trabajar con transacciones financieras y la integración de terceros como Mercado Pago y Binance.
-------------------------------------------------------------------------------------------------------------------------------------------------
