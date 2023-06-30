@@ -1,7 +1,8 @@
 # SLAT
 - Token
 - ![SLAT Icon](https://github.com/gonzalolater/SLAT/assets/42863568/f460b10f-1c0c-4156-8da4-21b2dc7534fa)
----------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 Crear una aplicación que funcione como puente entre Mercado Pago y Binance utilizando React en el frontend, Node.js como backend y Hardhat como nodo para conectar con Graph.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 1. Configuración del entorno:
@@ -12,7 +13,7 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 - npm init -y
 ------------------------------------------------------------------------------------------------------------------------------------------------
 2. Configuración del backend:
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 * Instala los paquetes necesarios para el backend. En este caso, necesitarás Express como framework para Node.js y otras dependencias adicionales. Ejecuta el siguiente comando:
 - npm install express axios
 * Crea un archivo index.js en tu directorio de backend y configura un servidor Express básico.
@@ -25,7 +26,20 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * Navega al directorio frontend y modifica los archivos en src para construir la interfaz de usuario necesaria.
 * Conecta las llamadas de API al backend para comunicarse con Mercado Pago y Binance.
 ------------------------------------------------------------------------------------------------------------------------------------------------
-4. Configuración de Hardhat y Graph:
+4. Integracion de Mercado pago a la aplicacion
+------------------------------------------------------------------------------------------------------------------------------------------------
+Integrator ID:
+★ dev_24c65fb163bf11ea96500242ac130004
+Test User (Vendedor) | Producción
+★ Access Token:
+APP_USR-8709825494258279-092911-227a84b3ec8d8b30fff364888abeb67a-1160706432
+★ Public Key:
+APP_USR-ff96fe80-6866-4888-847e-c69250754d38
+Test User (Comprador o pagador)
+★ Email:
+test_user_36961754@testuser.com
+------------------------------------------------------------------------------------------------------------------------------------------------
+5. Configuración de Hardhat y Graph:
 ------------------------------------------------------------------------------------------------------------------------------------------------
 * Sigue la documentación oficial de Hardhat para instalarlo y configurarlo en tu proyecto.
 * Crea contratos inteligentes en Solidity para interactuar con la cadena de bloques de Binance y establecer las funcionalidades necesarias para tu aplicación.
