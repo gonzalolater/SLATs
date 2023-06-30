@@ -1,10 +1,21 @@
 const BigNumber = require('bignumber.js');
 const qs = require('qs');
 const web3 = require('web3');
+const mp = new MercadoPago('YOUR_PUBLIC_KEY');
+const bricksBuilder = mp.bricks();
+
 
 let currentTrade = {};
 let currentSelectSide;
 let tokens;
+
+
+mp.bricks().create("wallet", "wallet_container", {
+   initialization: {
+       preferenceId: "<PREFERENCE_ID>",
+   },
+});
+
 
 async function init() {
     await listAvailableTokens();
