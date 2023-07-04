@@ -39,10 +39,15 @@ Test User (Comprador o pagador)
 ★ Email:
 test_user_36961754@testuser.com
 ------------------------------------------------------------------------------------------------------------------------------------------------
-5. Configuración de Hardhat y Graph:
+5. Configuración de Hardhat:
 ------------------------------------------------------------------------------------------------------------------------------------------------
 * Sigue la documentación oficial de Hardhat para instalarlo y configurarlo en tu proyecto.
 * Crea contratos inteligentes en Solidity para interactuar con la cadena de bloques de Binance y establecer las funcionalidades necesarias para tu aplicación.
 * Utiliza Hardhat para compilar y desplegar los contratos en la red de Binance.
-* Conéctate al servicio de Graph para configurar un subgrafo que escuche eventos relevantes en la cadena de bloques de Binance y actualice tu aplicación en consecuencia.
+------------------------------------------------------------------------------------------------------------------------------------------------
+6. Implementacion de IUniswapV2 & Creacion de Proveedor de Liquidez
+------------------------------------------------------------------------------------------------------------------------------------------------
+* Para Crear una Pool De liquidez y darle valor a SLATs
+* implementacion para hacer intercambios con la fabrica de UniswapV2
+* Para Revisar Fondos.
 ------------------------------------------------------------------------------------------------------------------------------------------------
