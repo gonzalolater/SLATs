@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: Unlicense
 pragma solidity ^0.8.0;
 
-import "./interfaces/IUniswapV2Factory.sol";
-import "./interfaces/IUniswapV2Pair.sol";
+import "./UniswapV2Factory.sol";
+import "./UniswapV2Pair.sol";
 import "./UniswapV2Library.sol";
 
 contract UniswapV2Router {
