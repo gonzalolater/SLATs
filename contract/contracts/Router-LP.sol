@@ -39,5 +39,14 @@ pragma solidity ^0.8.9;
 // The returned amountA and amountB could be used by another function to perform the following i) finding the pair contract using UniswapV2Library, ii) transferring the token amounts from the LP to the found pair, and iii) minting the LP token, so that the LP could claim their returned tokens later on. 
         }
 //  You can find how to implement the full functionality at the UniswapV2Router.sol codebase4. We highly recommend going through the codebase to gain a deeper understanding of how UniswapV2 works, so that you could program AMMs on your own.      
+    function swap(uint amount0Out, uint amount1Out, address to, bytes calldata data);
+    }
+// Receiving tokens could be easily understood from the function signature above. The function caller specifies the token they would like to receive through the amount10out as well as the address where the seller should receive the tokens. 
+// Sending tokens is quite complex and different from how this action is usually programmed with Solidity. Uniswap V2 first checks the token balances for the pair at the end of every transaction, and in the next transactions, the difference between the current balances of the pair and the one before would determine the number of tokens that were sent by the current sender.  If you want to dive deeper into this, the Uniswap V2 whitepaper1 is a great read. 
+    function uniswapV2Call(address sender, uint amount0, uint amount1, bytes calldata data) {
+        address token0 = IuniswapV2Pair(msg,sender).token0(); // fetch the address to token0
+        address token1 = IuniswapV2Pair(msg.sender).token1(); // fetch the address to token1
+        assert(msg.sender = IuniswapV2FactoryV2).getPair(token0, token1)); // ensure that msg.sender is a V2 pair
+// rest of the function goes here!
     }
 }
