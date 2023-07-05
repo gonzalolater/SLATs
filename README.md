@@ -51,3 +51,9 @@ test_user_36961754@testuser.com
 * implementacion para hacer intercambios con la fabrica de UniswapV2
 * Para Revisar Fondos.
 ------------------------------------------------------------------------------------------------------------------------------------------------
+7. Implementacion de libreria PAIR de Uniswap para poder emparejar los tokens dentro de la pool y que sea posible intercambiarlo con otros tokens.
+------------------------------------------------------------------------------------------------------------------------------------------------
+* Arquitectura de Factory de Uniswap
+* Implementacion de Librerias de UniswapV2
+* Creacion de la funcion Swap.
+------------------------------------------------------------------------------------------------------------------------------------------------  
