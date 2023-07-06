@@ -59,3 +59,7 @@ test_user_36961754@testuser.com
 ------------------------------------------------------------------------------------------------------------------------------------------------  
 8. Setteo y pido a Github la capacidad para que este proyecto pueda ser Sponsoreado. 06/07/2023
 ------------------------------------------------------------------------------------------------------------------------------------------------  
+* setteo un metodo de pago a mi wallet en ethereum
+* las personas que sponsoreen este proyecto tendran la oportunidad de elegir el nombre final del proyecto.
+* y seran recompensados con SLATs dependiendo de la cantidad de sponsors.
+------------------------------------------------------------------------------------------------------------------------------------------------  
