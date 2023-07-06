@@ -57,7 +57,7 @@ test_user_36961754@testuser.com
 * Implementacion de Librerias de UniswapV2
 * Creacion de la funcion Swap.
 ------------------------------------------------------------------------------------------------------------------------------------------------  
-8. Setteo y pido a Github la capacidad para que este proyecto pueda ser Sponsoreado. 06/07/2023
+8. Setteo y pido a Github la capacidad para que este proyecto pueda ser Sponsoreado.
 ------------------------------------------------------------------------------------------------------------------------------------------------  
 * setteo un metodo de pago a mi wallet en ethereum
 * las personas que sponsoreen este proyecto tendran la oportunidad de elegir el nombre final del proyecto.
