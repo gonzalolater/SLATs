@@ -63,3 +63,8 @@ test_user_36961754@testuser.com
 * las personas que sponsoreen este proyecto tendran la oportunidad de elegir el nombre final del proyecto.
 * y seran recompensados con SLATs dependiendo de la cantidad de sponsors.
 ------------------------------------------------------------------------------------------------------------------------------------------------  
+9. Incremento de seguridad y Setteo del proyecto, Agrego un colaborador
+------------------------------------------------------------------------------------------------------------------------------------------------  
+* Cancelo pull requests automaticos, a aprobado manual, al momento la estadistica de Github indica 110 Clones de este proyecto.
+* Incremento seguridad de cuenta de Github
+* Agrego como colaborador a Luca T-NAVE.
