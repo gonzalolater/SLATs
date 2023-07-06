@@ -57,3 +57,5 @@ test_user_36961754@testuser.com
 * Implementacion de Librerias de UniswapV2
 * Creacion de la funcion Swap.
 ------------------------------------------------------------------------------------------------------------------------------------------------  
+8. Setteo y pido a Github la capacidad para que este proyecto pueda ser Sponsoreado.
+------------------------------------------------------------------------------------------------------------------------------------------------  
