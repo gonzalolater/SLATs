@@ -78,3 +78,9 @@ test_user_36961754@testuser.com
 * For Algorand: https://perawallet.app/
 * Algorand: https://github.com/algorand-devrel
 ------------------------------------------------------------------------------------------------------------------------------------------------  
+11. Agregue la arquitectura deseada a manajerme con los contratos y sus diferentes ventajas.
+------------------------------------------------------------------------------------------------------------------------------------------------  
+* Cree carpetas con todas las necesidades y readmes explicando el porque de cada una.
+* Arquitectura de contratos diviendo por tecnologias.
+* Mejora la idea del flujo de las transacciones.
+------------------------------------------------------------------------------------------------------------------------------------------------  
