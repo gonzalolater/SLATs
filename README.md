@@ -4,7 +4,7 @@
   
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-Crear una aplicación que funcione como puente entre Mercado Pago y Binance utilizando React en el frontend, Node.js como backend y Hardhat como nodo para conectar con Graph.
+# Crear una aplicación que funcione como puente entre Mercado Pago y Binance utilizando React en el frontend, Node.js como backend y Hardhat como nodo para conectar con Graph.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 1 Configuración del entorno:
