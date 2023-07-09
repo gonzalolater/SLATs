@@ -84,3 +84,9 @@ test_user_36961754@testuser.com
 * Arquitectura de contratos diviendo por tecnologias.
 * Mejora la idea del flujo de las transacciones.
 ------------------------------------------------------------------------------------------------------------------------------------------------  
+12 Obtengo una Certificacion en Chainlink Developer, Hago pruebas con mercado pago.
+------------------------------------------------------------------------------------------------------------------------------------------------  
+* Desarrollo en chainlink con el curso para señor developers de Calyptus
+* Curso de Algorand en BlockDen Para desarrollar la crypto moneda y generar la pool en SLAT/WMatic.
+* Investigacion de nuevas implementaciones.
+------------------------------------------------------------------------------------------------------------------------------------------------  
