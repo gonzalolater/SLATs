@@ -136,3 +136,14 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * Ofercer la posibilidad del 10% de que la transaccion sea gratis.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
+15 LONDON BRIDGE transaction Testing.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+* Make Conections
+* Send/Recibe Tokens
+* PeraAlgo from Algorand to MetaMask GoerliETh
+* Algo Send Route: Algo to USDC, USDC to London Bridge, USDC to MetaMask
+* MetaMask send Route: Ethereum to WUSDC, WUSDC to Algo
+![image](https://github.com/gonzalolater/SLATs/assets/42863568/213520dd-41d2-4fc0-95ee-18ab8d9ed175)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
