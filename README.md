@@ -133,5 +133,6 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * https://chain.link/es/bootcamp
 * https://faucets.chain.link/goerli
 * Crear Random para Numeros en Chainlink.
+* Ofercer la posibilidad del 10% de que la transaccion sea gratis.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
