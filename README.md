@@ -131,5 +131,6 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * https://calyptus.co/lessons/intro-to-oracles-chainlink-and-data-feeds/
 * https://docs.chain.link/getting-started/conceptual-overview
 * https://chain.link/es/bootcamp
+* https://faucets.chain.link/goerli
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
