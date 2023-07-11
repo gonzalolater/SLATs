@@ -147,3 +147,11 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 ![image](https://github.com/gonzalolater/SLATs/assets/42863568/213520dd-41d2-4fc0-95ee-18ab8d9ed175)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
+
+16 Create contract in Matic Layer 2
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+* Metamask -> WMATIC -> WUSDC -> London Bridge -> PeraAlgo -> Algorand
+* Implemente seguridad como open zeppelin
+* Hice pruebas en testnet para ver el camino correcto del flujo de las transaccion y estimar gastos transaccionales desde cualquier lado al contrato en Algorand
+-------------------------------------------------------------------------------------------------------------------------------------------------
