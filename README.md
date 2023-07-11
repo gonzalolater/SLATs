@@ -148,10 +148,12 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-16 Create contract in Matic Layer 2
+16 Create contract in Matic Layer 2 & Start With Algorand
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 * Metamask -> WMATIC -> WUSDC -> London Bridge -> PeraAlgo -> Algorand
 * Implemente seguridad como open zeppelin
 * Hice pruebas en testnet para ver el camino correcto del flujo de las transaccion y estimar gastos transaccionales desde cualquier lado al contrato en Algorand
+* Luego de Algorand Hacia otros Bridge que no demoren tanto ya que Algorand tarda 3.3 segundos para transferir
+* Estudiando ATOMIC TRANSACTION in Algorand
 -------------------------------------------------------------------------------------------------------------------------------------------------
