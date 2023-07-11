@@ -125,4 +125,8 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 14 Implementacion de Chainlink & Examinacion si implementar Blockchain tranking TOken,un ERC20 Indexer del token.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
-* 
+* https://docs.ethers.org/v6/
+* https://web3js.readthedocs.io/en/v1.10.0/
+* https://remix.ethereum.org/
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
