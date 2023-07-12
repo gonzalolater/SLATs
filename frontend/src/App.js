@@ -193,3 +193,5 @@ document.getElementById("to_token_select").onclick = () => {
 document.getElementById("modal_close").onclick = closeModal;
 document.getElementById("from_amount").onblur = getPrice;
 document.getElementById("swap_button").onclick = trySwap;
+
+// https://docs.alchemy.com/docs/how-to-build-a-token-swap-dapp-with-0x-api
