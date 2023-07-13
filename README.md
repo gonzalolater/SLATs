@@ -157,3 +157,11 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * Luego de Algorand Hacia otros Bridge que no demoren tanto ya que Algorand tarda 3.3 segundos para transferir
 * Estudiando ATOMIC TRANSACTION in Algorand
 -------------------------------------------------------------------------------------------------------------------------------------------------
+
+17 Algorand, La mayor parte de los contratos y toda la estructura de SLATs esta basada en Algorand.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+* Comienzo a revisar las limitaciones y consigo material para crear el token/NFT
+* Investigacion de como crear el pool de liquidez para cambiar Slats por WMatic.
+* Comienzo con la creacion de contratos.
+-------------------------------------------------------------------------------------------------------------------------------------------------
