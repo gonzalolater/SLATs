@@ -165,3 +165,11 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * Investigacion de como crear el pool de liquidez para cambiar Slats por WMatic.
 * Comienzo con la creacion de contratos.
 -------------------------------------------------------------------------------------------------------------------------------------------------
+
+18 investigancion de IA Falcon LLm & Diagrama de arquitectura del cash flow en canvas y de conecciones.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+* https://falconllm.tii.ae/
+* obtencion del codigo de Falcon LLM
+* Investigacion metodos de encryptamiento anti-compurtadoras Cuanticas.
+* -------------------------------------------------------------------------------------------------------------------------------------------------
