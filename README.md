@@ -173,6 +173,7 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * https://falconllm.tii.ae/
 * obtencion del codigo de Falcon LLM
 * Investigacion metodos de encryptamiento anti-compurtadoras Cuanticas.
+* https://www.youtube.com/watch?v=xymGpIeNc88
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 19 QR IA for SLATs
