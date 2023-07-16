@@ -2,8 +2,8 @@
 
 - Token
   
-![SLAT Icon](https://github.com/gonzalolater/SLAT/assets/42863568/f460b10f-1c0c-4156-8da4-21b2dc7534fa)
-  
+![Slats](https://github.com/gonzalolater/SLATs/assets/42863568/59bc966a-4ea9-4524-b84b-fc3b433dda63)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Crear una aplicación que funcione como puente entre Mercado Pago y Binance utilizando React en el frontend, Node.js como backend y Hardhat como nodo para conectar con Graph.
 
