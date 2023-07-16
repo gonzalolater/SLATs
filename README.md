@@ -180,7 +180,8 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 -------------------------------------------------------------------------------------------------------------------------------------------------
 * intento generar un nuevo QR con IA en esta pagina https://classic.qrbtf.com/
 * Al momento no consigo lograrlo pero la idea es que el mismo token en si sea un QR Code.
-![QRcode_SLAT](https://github.com/gonzalolater/SLATs/assets/42863568/ad57c9fc-6071-44e2-8073-c23f54dc57fe)
+* Este ? ![QRcode_SLAT](https://github.com/gonzalolater/SLATs/assets/42863568/ad57c9fc-6071-44e2-8073-c23f54dc57fe)
+* o Este ? ![QRcode_SP — 2](https://github.com/gonzalolater/SLATs/assets/42863568/745a3808-f7e6-47eb-81df-07dceaf3f91d)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 20 Commentar frontend y Continuar con la grafica CashFlow.
