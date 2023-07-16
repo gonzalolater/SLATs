@@ -146,7 +146,8 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * MetaMask send Route: Ethereum to WUSDC, WUSDC to Algo
 ![image](https://github.com/gonzalolater/SLATs/assets/42863568/213520dd-41d2-4fc0-95ee-18ab8d9ed175)
 
--------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+-------------------------------------------------------------
 
 16 Create contract in Matic Layer 2 & Start With Algorand
 
@@ -172,4 +173,13 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * https://falconllm.tii.ae/
 * obtencion del codigo de Falcon LLM
 * Investigacion metodos de encryptamiento anti-compurtadoras Cuanticas.
-* -------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+19 QR IA for SLATs
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+* ![QRcode_SLAT](https://github.com/gonzalolater/SLATs/assets/42863568/ad57c9fc-6071-44e2-8073-c23f54dc57fe)
+* intento generar un nuevo QR con IA en esta pagina https://classic.qrbtf.com/
+* Al momento no consigo lograrlo pero la idea es que el mismo token en si se un QR Code.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
