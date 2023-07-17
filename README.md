@@ -190,6 +190,7 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * Grafica de CashFlow Incompleta.
 * Grafica de Arquitectura Imcompleta.
 * Comentarios imcompletos.
+![image](https://github.com/gonzalolater/SLATs/assets/42863568/afa625ec-a83c-4f38-9959-bf0b9a071a71)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 21 Algorand Segunda Edicion; Tengo que pulir mas Algorand.
