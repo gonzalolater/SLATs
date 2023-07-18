@@ -197,4 +197,6 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/gonzalolater/SLATs/assets/42863568/0c5de4a6-3a6f-4880-9740-b08baccda088)
+* Curso con Ryan R. Fox de Algorand.
+* Aprendo Algokit y Beaker.
 -------------------------------------------------------------------------------------------------------------------------------------------------
