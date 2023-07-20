@@ -210,5 +210,5 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 23 Grafico de Cash Flow
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://github.com/gonzalolater/SLATs/assets/42863568/bc476468-5cab-4494-a2c5-326b5e1bf7f6)
+![image](https://github.com/gonzalolater/SLATs/assets/42863568/8b2d14d2-d8c8-4445-b827-efc1c03bf2e2)
 -------------------------------------------------------------------------------------------------------------------------------------------------
