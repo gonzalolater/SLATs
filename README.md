@@ -219,3 +219,12 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * Preparando entorno y seteando la pc.
 * investigando cual es la mejor opcion a tomar.
 -------------------------------------------------------------------------------------------------------------------------------------------------
+
+25 Binance Pay
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+* ![image](https://github.com/gonzalolater/SLATs/assets/42863568/00292f75-3c21-4ee0-b0be-a3533099c6c1)
+* ![image](https://github.com/gonzalolater/SLATs/assets/42863568/5de31967-3a4f-4b80-9d26-8496da3d63d6)
+* https://developers.binance.com/docs/binance-pay/api-common
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
