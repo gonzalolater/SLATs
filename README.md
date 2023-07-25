@@ -76,12 +76,14 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 
 ------------------------------------------------------------------------------------------------------------------------------------------------  
 8 Setteo y pido a Github la capacidad para que este proyecto pueda ser Sponsoreado.
+![github-mark](https://github.com/gonzalolater/SLATs/assets/42863568/15276810-64e9-4490-9ca9-76aba7f7e0fa)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------  
 * setteo un metodo de pago a mi wallet en ethereum
 * las personas que sponsoreen este proyecto tendran la oportunidad de elegir el nombre final del proyecto.
 * y seran recompensados con SLATs dependiendo de la cantidad de sponsors.
-
+![GitHub_Logo](https://github.com/gonzalolater/SLATs/assets/42863568/fbbf06f4-98b0-4fdc-ac5a-b1fa028abdaa)
+### Soy aceptado en el Github Developer Program.
 ------------------------------------------------------------------------------------------------------------------------------------------------  
 9 Incremento de seguridad y Setteo del proyecto, Agrego un colaborador
 
