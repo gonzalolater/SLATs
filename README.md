@@ -239,3 +239,11 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * 120 gb de peso para soportar las ultimas versiones de Android y la 4.1+ kittycat, que es la minima que acepta binance pay.
 * Aprendido Flutter para desarrollar SLATs Mobile.
 -------------------------------------------------------------------------------------------------------------------------------------------------
+
+27 Continuo con el desarrollo de la parte mobile.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+* Haciendo pruebas de la minima version soportable
+* Creacion de emulador integrado con intel
+* Previsualizacion de la aplicacion.
+-------------------------------------------------------------------------------------------------------------------------------------------------
