@@ -247,3 +247,11 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * Creacion de emulador integrado con intel
 * Previsualizacion de la aplicacion.
 -------------------------------------------------------------------------------------------------------------------------------------------------
+
+28 Creando implementaciones en repositorios privados y testing.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+* Creando aplicacion SLATs en Android Studio con Kotlin.
+* Haciendo pruebas con 0x API
+* Estudiando Oraculo de Chainlink y haciendo pruebas.
+-------------------------------------------------------------------------------------------------------------------------------------------------
