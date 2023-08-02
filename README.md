@@ -255,3 +255,14 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * Haciendo pruebas con 0x API
 * Estudiando Oraculo de Chainlink y haciendo pruebas.
 -------------------------------------------------------------------------------------------------------------------------------------------------
+
+29 Polygon Web3 Development, on other repository, Beta repository for testing.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+* Web3 Development Fundamentals
+* Polygon Fundamentals
+* Polygon Development Environment
+* Polygon Wallet
+* Polygon NFT Minter Development
+* Polygon NFT Marketplace Development
+-------------------------------------------------------------------------------------------------------------------------------------------------
