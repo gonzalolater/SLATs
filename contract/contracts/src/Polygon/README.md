@@ -1,4 +1,4 @@
-# First Smart Contract pass for matic.
+# Smart Contracts in Matic.
 * Testing on Remix.
 ----------------------------------------------------------------------------------------------
 # Scaling Ethereum
