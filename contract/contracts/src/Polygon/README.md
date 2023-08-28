@@ -26,3 +26,5 @@
 [PolygonWeb3Development-on-101-Blockchains.pdf](https://github.com/gonzalolater/SLATs/files/12234825/PolygonWeb3Development-on-101-Blockchains.pdf)
 
 ----------------------------------------------------------------------------------------------
+
+Continuando con el curso.
