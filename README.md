@@ -266,3 +266,7 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * Polygon NFT Minter Development
 * Polygon NFT Marketplace Development
 -------------------------------------------------------------------------------------------------------------------------------------------------
+
+30 Agregue un ingeniero de blockchain de polonia, al proyecto como contribuyente.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
