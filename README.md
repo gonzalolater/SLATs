@@ -1,3 +1,6 @@
+Si estas leyendo esto deja una Estrella ⭐
+If you are reading this leave a Star ⭐
+
 # SLATs
 
 - Token
