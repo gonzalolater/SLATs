@@ -276,5 +276,7 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 ![image](https://github.com/gonzalolater/SLATs/assets/42863568/8dda9499-ab92-4304-b739-21669f122fb5)
 * CBDC Risks
 ![image](https://github.com/gonzalolater/SLATs/assets/42863568/d6394f82-39c9-43e5-8531-cbe6399785fb)
+* DeFi Segurity
+![image](https://github.com/gonzalolater/SLATs/assets/42863568/c877bf36-b575-4d7c-96e3-7d03854435cf)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
