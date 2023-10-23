@@ -272,5 +272,7 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * DeFi Stack
 
 ![image](https://github.com/gonzalolater/SLATs/assets/42863568/74633b32-a788-42ef-8902-5ae84ccffa45)
+CBDC Design.
+![image](https://github.com/gonzalolater/SLATs/assets/42863568/8dda9499-ab92-4304-b739-21669f122fb5)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
