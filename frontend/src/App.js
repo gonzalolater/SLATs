@@ -1,15 +1,14 @@
 import React from 'react'
 import DexAggregator from './Dex-Aggregator'
+import NftMarketPlace from './NftMarketPlace'
 
 const App = () => {
      return (
           <>
         <DexAggregator />               
+        <NftMarketPlace />
           </>
      )
 }
 
 export default App
-
-// https://docs.alchemy.com/docs/how-to-build-a-token-swap-dapp-with-0x-api
-// Esqueleto del Dex Aggregator
