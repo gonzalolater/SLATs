@@ -269,7 +269,9 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * Polygon NFT Minter Development
 * Polygon NFT Marketplace Development
 -------------------------------------------------------------------------------------------------------------------------------------------------
+
 30 DeFi Stack
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 * CBDC Design.
