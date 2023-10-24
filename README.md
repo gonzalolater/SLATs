@@ -269,7 +269,7 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * Polygon NFT Minter Development
 * Polygon NFT Marketplace Development
 -------------------------------------------------------------------------------------------------------------------------------------------------
-* DeFi Stack
+30 DeFi Stack
 
 ![image](https://github.com/gonzalolater/SLATs/assets/42863568/74633b32-a788-42ef-8902-5ae84ccffa45)
 * CBDC Design.
@@ -279,4 +279,9 @@ Crear una aplicación que funcione como puente entre Mercado Pago y Binance util
 * DeFi Segurity
 ![image](https://github.com/gonzalolater/SLATs/assets/42863568/c877bf36-b575-4d7c-96e3-7d03854435cf)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+31 Creacion de Compound Liquidation Bot
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+* Para que revise constantemente el valor de la moneda colateral de la Liquidity Pool, con la intecion de cuidar los fondos del contrato y los usuarios.
 -------------------------------------------------------------------------------------------------------------------------------------------------
