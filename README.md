@@ -8,7 +8,7 @@ If you are reading this leave a Star ⭐
 ![Slats](https://github.com/gonzalolater/SLATs/assets/42863568/59bc966a-4ea9-4524-b84b-fc3b433dda63)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
-Crear una aplicación que funcione como puente entre Mercado Pago y Binance utilizando React en el frontend, Node.js como backend y Hardhat como nodo para conectar con Graph.
+Crear una aplicación que funcione como puente entre Diferentes billeteras digitales web 2, wallets web 3, Con la intencion de Abrir el libre comercio de todo el pais que adopte este NFT/Token, donde con su moneda local puede comprar cualquier moneda que usted desee.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 1 Configuración del entorno:
