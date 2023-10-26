@@ -1,6 +1,8 @@
 Si estas leyendo esto deja una Estrella ⭐
 If you are reading this leave a Star ⭐
 
+[Proyecto SLATs Final.pdf](https://github.com/gonzalolater/SLATs/files/13178200/Proyecto.SLATs.Final.pdf)
+
 # SLATs
 
 - Token
