@@ -285,3 +285,7 @@ Crear una aplicación que funcione como puente entre Diferentes billeteras digit
 -------------------------------------------------------------------------------------------------------------------------------------------------
 * Para que revise constantemente el valor de la moneda colateral de la Liquidity Pool, con la intecion de cuidar los fondos del contrato y los usuarios.
 -------------------------------------------------------------------------------------------------------------------------------------------------
+
+32 Creacion de presentacion para Hacker House.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
