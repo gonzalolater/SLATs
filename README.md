@@ -90,12 +90,11 @@ Crear una aplicación que funcione como puente entre Diferentes billeteras digit
 ![GitHub_Logo](https://github.com/gonzalolater/SLATs/assets/42863568/fbbf06f4-98b0-4fdc-ac5a-b1fa028abdaa)
 ### Soy aceptado en el Github Developer Program.
 ------------------------------------------------------------------------------------------------------------------------------------------------  
-9 Incremento de seguridad y Setteo del proyecto, Agrego un colaborador
+9 Incremento de seguridad y Setteo del proyecto.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------  
 * Cancelo pull requests automaticos, a aprobado manual, al momento la estadistica de Github indica 110 Clones de este proyecto.
 * Incremento seguridad de cuenta de Github
-* Agrego como colaborador a Luca T-NAVE.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------  
 10 Investigando LONDON BRIDGE & Chainlink para implementar y conectar Ethereum con Algorand tambien contratos con oraculo de Chainlink.
