@@ -150,8 +150,8 @@ Crear una aplicación que funcione como puente entre Diferentes billeteras digit
 * PeraAlgo from Algorand to MetaMask GoerliETh
 * Algo Send Route: Algo to USDC, USDC to London Bridge, USDC to MetaMask
 * MetaMask send Route: Ethereum to WUSDC, WUSDC to Algo
-![image](https://github.com/gonzalolater/SLATs/assets/42863568/213520dd-41d2-4fc0-95ee-18ab8d9ed175)
-
+* ![image](https://github.com/gonzalolater/SLATs/assets/42863568/213520dd-41d2-4fc0-95ee-18ab8d9ed175)
+* https://londonbridge.io/news/how-to-use-the-london-bridge-web-app/
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 16 Create contract in Matic Layer 2 & Start With Algorand
