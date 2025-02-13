@@ -294,4 +294,4 @@ Crear una aplicación que funcione como puente entre Diferentes billeteras digit
 
 ![Algorand Hacker House](https://github.com/gonzalolater/SLATs/assets/42863568/8e21eb89-fd99-4312-ba2f-a8ce0e2835bd)
 
-34 Este proyecto continua en desarrollo de manera privada se encuentra en un 70% de su finalizacion.
+34 Este proyecto continua en desarrollo de manera privada se encuentra en un 80% de su finalizacion.
